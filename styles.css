@@ -1,0 +1,280 @@
+body {
+    background: rgb(31, 31, 31);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    font-weight: 300;
+}
+
+img {
+    box-shadow: 0px 10px 30px rgb(0, 0, 0);
+}
+
+.h1-overskrift {
+    color: white;
+    text-shadow: 0px 0px 10px rgb(246, 255, 120);
+    display: flex;
+    justify-content: center;
+    font-weight: 300;
+    font-size: 250%;
+}
+
+.intro-tekst {
+    color: white;
+    text-shadow: 0px 0px 10px rgb(246, 255, 120);
+    display: flex;
+    justify-content: center;
+    font-weight: 300;
+    font-size: 150%;
+}
+
+.tekst1 {
+    display: flex;
+    align-items: center;
+    font-size: 200%;
+    color: white;
+    text-shadow: 0px 0px 10px rgb(255, 255, 255);
+    text-align: center;
+    width: 300px;
+}
+
+.bilde1-box {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5%;
+}
+
+.tekst2 {
+    display: flex;
+    align-items: center;
+    font-size: 200%;
+    color: white;
+    text-shadow: 0px 0px 10px rgb(255, 255, 255);
+    text-align: center;
+    width: 600px;
+}
+
+.bilde2-box {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5%;
+}
+
+.tekst3 {
+    display: flex;
+    align-items: center;
+    font-size: 200%;
+    color: white;
+    text-shadow: 0px 0px 10px rgb(255, 255, 255);
+    text-align: center;
+    width: 400px;
+}
+
+.bilde3-box {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5%;
+}
+
+.tekst4 {
+    display: flex;
+    align-items: center;
+    font-size: 200%;
+    color: white;
+    text-shadow: 0px 0px 10px rgb(255, 255, 255);
+    text-align: center;
+    width: 500px;
+}
+
+.bilde4-box {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5%;
+}
+
+.tekst5 {
+    display: flex;
+    align-items: center;
+    font-size: 200%;
+    color: white;
+    text-shadow: 0px 0px 10px rgb(255, 255, 255);
+    text-align: center;
+    width: 400px;
+}
+
+.bilde5-box {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5%;
+}
+
+.tekst6 {
+    display: flex;
+    align-items: center;
+    font-size: 200%;
+    color: white;
+    text-shadow: 0px 0px 10px rgb(255, 255, 255);
+    text-align: center;
+    width: 400px;
+}
+
+.bilde6-box {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5%;
+}
+
+.tekst7 {
+    display: flex;
+    align-items: center;
+    font-size: 200%;
+    color: white;
+    text-shadow: 0px 0px 10px rgb(255, 255, 255);
+    text-align: center;
+    width: 400px;
+}
+
+.bilde7-box {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5%;
+}
+
+.tekst8 {
+    display: flex;
+    align-items: center;
+    font-size: 200%;
+    color: white;
+    text-shadow: 0px 0px 10px rgb(255, 255, 255);
+    text-align: center;
+    width: 500px;
+}
+
+.bilde8-box {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5%;
+}
+
+.tekst9 {
+    display: flex;
+    align-items: center;
+    font-size: 200%;
+    color: white;
+    text-shadow: 0px 0px 10px rgb(255, 255, 255);
+    text-align: center;
+    width: 500px;
+}
+
+.bilde9-box {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5%;
+}
+
+.tekst10 {
+    display: flex;
+    align-items: center;
+    font-size: 200%;
+    color: white;
+    text-shadow: 0px 0px 10px rgb(255, 255, 255);
+    text-align: center;
+    width: 500px;
+}
+
+.bilde10-box {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5%;
+}
+
+.tekst11 {
+    display: flex;
+    align-items: center;
+    font-size: 200%;
+    color: white;
+    text-shadow: 0px 0px 10px rgb(255, 255, 255);
+    text-align: center;
+    width: 440px;
+}
+
+.bilde11-box {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5%;
+}
+
+.tekst12 {
+    display: flex;
+    align-items: center;
+    font-size: 200%;
+    color: white;
+    text-shadow: 0px 0px 10px rgb(255, 255, 255);
+    text-align: center;
+    width: 440px;
+}
+
+.bilde12-box {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5%;
+}
+
+.tekst13 {
+    display: flex;
+    align-items: center;
+    font-size: 200%;
+    color: white;
+    text-shadow: 0px 0px 10px rgb(255, 255, 255);
+    text-align: center;
+    width: 440px;
+}
+
+.bilde13-box {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5%;
+}
+
+.tekst14 {
+    display: flex;
+    align-items: center;
+    font-size: 200%;
+    color: white;
+    text-shadow: 0px 0px 10px rgb(255, 255, 255);
+    text-align: center;
+    width: 500px;
+}
+
+.bilde14-box {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5%;
+}
+
+.tekst15 {
+    display: flex;
+    align-items: center;
+    font-size: 200%;
+    color: white;
+    text-shadow: 0px 0px 10px rgb(255, 255, 255);
+    text-align: center;
+    width: 500px;
+}
+
+.bilde15-box {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5%;
+}
+
+.avslutt {
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    font-size: 200%;
+    color: white;
+    text-shadow: 0px 0px 10px rgb(255, 255, 255);
+    text-align: center;
+}
